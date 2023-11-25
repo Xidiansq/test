@@ -6,7 +6,7 @@ import numpy as np
 
 def setInitBeamCenterPos(i, SateBLH, type):
     if type == "IRIDIUM":
-        # 波束的数量以及功率大小1
+        # 波束的数量以及功率大小12
         numPointsofC1 = 3
         numPointsofC2 = 9
         numPointsofC3 = 15
