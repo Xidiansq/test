@@ -79,7 +79,7 @@ class DQN(nn.Module):
 resize = T.Compose([T.ToPILImage(),
                     T.Resize(40, interpolation=Image.CUBIC),
                     T.ToTensor()])
-
+#1
 
 def get_cart_location(screen_width):
     world_width = env.x_threshold * 2
