@@ -8,3 +8,5 @@ import torch
 # print(c)
 power_action = np.array([25.57,24.973,24.776,24.724,24.678,23.379,26.269,24.699,24.301,25.406,26.025,24.407])
 print(power_action.sum())
+
+print(1)
