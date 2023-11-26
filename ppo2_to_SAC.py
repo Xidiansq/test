@@ -32,7 +32,7 @@ plt.ion()  # 开启一个画图的窗口
 
 ####多幅子图
 # plt.figure()
-# plt.subplot(2,1,1)
+# plt.subplot(2,1,1
 
 class ReplayBuffer:
     """
